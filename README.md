@@ -17,6 +17,4 @@ What it does:
 -   Create a super user for api ui and admin access
 -   Run the postgres image and the web application
 
-
-
-
+It should now be accessible on http://0.0.0.0:8000
